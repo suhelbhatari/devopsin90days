@@ -19,7 +19,7 @@
 
 ---
 
-# 📅 Phase 1 — Linux, Networking & Git Fundamentals
+# Phase 1 — Linux, Networking & Git Fundamentals
 ## Day 1–15
 
 ## 🐧 Week 1 — Linux Foundations
@@ -94,7 +94,7 @@
 
 ---
 
-# 📅 Phase 2 — Git, GitHub & Python for DevOps
+# Phase 2 — Git, GitHub & Python for DevOps
 ## Day 16–30
 
 ## 🔧 Week 3 — Git & GitHub
@@ -152,7 +152,7 @@
 
 ---
 
-# 📅 Phase 3 — Cloud & AWS ☁️
+# Phase 3 — Cloud & AWS ☁️
 ## Day 31–45
 
 ## ☁️ Week 5 — AWS Core Services
@@ -208,7 +208,7 @@
 
 ---
 
-# 📅 Phase 4 — Docker & Kubernetes 🐳☸️
+# Phase 4 — Docker & Kubernetes 🐳☸️
 ## Day 46–65
 
 ## 🐳 Week 7 — Docker
@@ -279,7 +279,7 @@
 
 ---
 
-# 📅 Phase 5 — CI/CD & Infrastructure as Code ⚙️
+# Phase 5 — CI/CD & Infrastructure as Code ⚙️
 ## Day 66–80
 
 ## ⚙️ Week 10 — Jenkins & GitHub Actions
@@ -335,7 +335,7 @@
 
 ---
 
-# 📅 Phase 6 — Monitoring, Logging & Final Projects 📊
+# Phase 6 — Monitoring, Logging & Final Projects 📊
 ## Day 81–90
 
 ## 📊 Week 12 — Observability
